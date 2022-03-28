@@ -4,16 +4,6 @@
     background-color: white ;
 }
 
-.container {
-    /*debug*/
-    background-color: cadetblue;
-}
-
-.row {
-    /*debug*/
-    background-color: cornsilk ;
-}
-
 .box {
     /*debug*/
     width: 100% ;
@@ -21,5 +11,4 @@
     border: 1px solid black ;
     background-color: darkgrey ;
     text-align: center ;
-
 }
